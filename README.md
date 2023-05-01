@@ -144,13 +144,7 @@
 </p>
 <br>
 
-## Dynamic Quotes 📜:
-<br>
-<p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
-<hr>
-<br>
+
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 
@@ -159,6 +153,8 @@
 <br>
 
 <h2 align='center'>Thank You!!!!!</h2>
+<h6 align='center'>Special Thanks to my friend @chinmay29hub 😁 </h6>
+
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
