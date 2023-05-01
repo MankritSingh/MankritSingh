@@ -48,8 +48,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -66,17 +65,8 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
-<!-- <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp; -->
-</p>
-<br>
-
-### Design 🎨 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -103,19 +93,13 @@
 ### Social Media 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
+<a href="mailto:singhmankrit11@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/chinmay29hub" target="_blank">
-<img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
+<a href="https://www.linkedin.com/in/MankritSingh" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
-<img src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
+<a href="https://www.youtube.com/channel/UC8-hl7nsElPf7PaKkgSBDIw">
+<img src="https://img.shields.io/badge/TechTalkWithSingh-FF0000?style=for-the-badge&logo=Youtube&logoColor=white">
 </a>&nbsp;&nbsp;
 </p>
 <br>
@@ -131,16 +115,6 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
-
-<!-- ### Server 🗃️ :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
-</p>
-<br> -->
-
-<br>
-
 ### Database 💾 :
 <br>
 <p align='center'>
@@ -148,7 +122,7 @@
 </p>
 <br>
 
-<!-- ### ML/DL 🤖/🧠 :
+### ML/DL 🤖/🧠 :
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -168,190 +142,6 @@
 <p align='center'>
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
 </p>
-<br>
-
-### Operating Systems 🐧 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
-</p>
-<hr>
-<br>
-
-## Github Contributions 📈
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
-<p>
-
-<hr>
-<br>
-
-## Just a snake eating my contributions 🐍
-<p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
-<br>
-
-## Waka Time Stats 🕰
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2027%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 299.8 kB Used in GitHub's Storage 
- > 
-> 🏆 383 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                186 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-🌆 Daytime                342 commits         █████████░░░░░░░░░░░░░░░░   36.42 % 
-🌃 Evening                374 commits         ██████████░░░░░░░░░░░░░░░   39.83 % 
-🌙 Night                  37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Tuesday                  131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Wednesday                153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 88 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Friday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Saturday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Sunday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    21 mins             ██████████████████░░░░░░░   70.74 % 
-HTML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-the_game                 31 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   22 repos            █████████░░░░░░░░░░░░░░░░   34.92 % 
-JavaScript               21 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-```
-
-
-
-
- Last Updated on 01/05/2023 12:35:40 UTC
-<!--END_SECTION:waka-->
-
-<hr>
-<br>
-
-## Trophies 🏆:
-<br>
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
-</p>
-<hr>
-<br>
-
-## Recent Articles on Medium 📚 :
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/0" alt="How to use pyscript within vscode?">
-</p>
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/1" alt="what is ssh and how to use it on ubuntu?">
-</p>
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/2" alt="ls command in linux">
-</p>
-<br>
-<p>
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chinmay29hub/3" alt="ls command in linux">
-</p>
-<br>
-
-<hr>
-<br>
-
-## Articles On linuxfordevices.com 🐧 :
-<br>
-
-| Clickable Titles |
-| --- |
-| [Cool Terminal Progress Bar – Python and Bash](https://www.linuxfordevices.com/tutorials/linux/terminal-progress-bar-python-bash) |
-| [Top 10 Amazing Raspberry Pi Projects 2022](https://www.linuxfordevices.com/tutorials/linux/top-raspberry-pi-projects) |
-| [9 Best Linux Distros For Programming](https://www.linuxfordevices.com/tutorials/linux/best-linux-distros-for-programming) |
-| [Kubuntu vs Ubuntu – Which is the best 2022?](https://www.linuxfordevices.com/tutorials/ubuntu/kubuntu-vs-ubuntu) |
-| [Make Your Arch Linux Terminal Awesome 2022](https://www.linuxfordevices.com/tutorials/linux/make-arch-terminal-awesome) |
-| [9 Best Widgets For KDE Plasma](https://www.linuxfordevices.com/tutorials/linux/best-widgets-for-kde-plasma) |
-| [Best Way To Connect Raspberry Pi Remotely 2022](https://www.linuxfordevices.com/tutorials/linux/connect-raspberry-pi-remotely) |
-| [Settings To Make Your KDE Desktop Stunning 2022](https://www.linuxfordevices.com/tutorials/linux/make-kde-desktop-stunning) |
-| [Draw On Your Linux Screen With These Great Tools 2022](https://www.linuxfordevices.com/tutorials/linux/tools-to-draw-on-linux-screen) |
-| [Best Way To Execute Linux Commands using Python](https://www.linuxfordevices.com/tutorials/linux/execute-linux-commands-python) |
-| [How to download and Play Among us On Linux?](https://www.linuxfordevices.com/tutorials/linux/among-us-on-linux) |
-| [Make Your Bash Shell Beautiful 2022](https://www.linuxfordevices.com/tutorials/linux/beautify-bash-shell) |
-| [A great way to use Ubuntu Server 22.04 on Virtual Box](https://www.linuxfordevices.com/tutorials/linux/ubuntu-server-on-virtual-box) |
-
-<hr>
-<br>
-
-## Articles on codeforgeek.com 💻 :
-<br>
-
-| Clickable Titles |
-| --- |
-| [Upgrade Your Raspberry Pi to a Powerful Web Server](https://codeforgeek.com/raspberry-pi-webserver/) |
-
-<hr>
-<br>
-
-## chinmay29hub 2021 📅:
-<br>
-<p align='center'>
-<img src="chinmay29hub.gif">
-</p>
-
-<hr>
 <br>
 
 ## Dynamic Quotes 📜:
